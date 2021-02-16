@@ -1,6 +1,4 @@
 # jstor_papers_scrapping
-get titles, authors, and summaries from several papers from jstor.org site
-# jstor_papers_scrapping
 get titles, authors, and summaries from several papers from https://www.jstor.org/ site
 
 How to use it
